@@ -1,0 +1,16 @@
+I can understand how amazing this legend was 10 years ago.
+'https://www.youtube.com/playlist?list=PL0rXAycstylvXxyPDT5kGQ5MiHcqrZWv69'
+
+I downloaded an app like a file explorer; it's Thunar.
+
+Also, I want to download a new theme; some apps I can't see clearly.
+So I downloaded:
+sudo pacman -S pop-gtk-theme
+
+And to activate it, I should use:
+'lxappearance'
+
+Also, let's try to download some new icons like:
+'sudo pacman -S papirus-icon-theme'
+
+It's nice.
