@@ -14,3 +14,28 @@ Also, let's try to download some new icons like:
 'sudo pacman -S papirus-icon-theme'
 
 It's nice.
+
+----------------------------------------------------------------------
+Day two at 5 AM after Fajr. I am here — 06/07/2026
+
+Hello again.
+
+It's Incredible Menu today. I downloaded Rofi.
+It's a dmenu for i3. I feel it looks the same as what geek users use.
+
+sudo pacman -S rofi
+
+Also, inside the config:
+
+bindsym Mod1+d exec rofi -show drun
+
+Also, lately I added:
+
+sudo pacman -S papirus-icon-theme
+
+Also, it's very nice. I feel free in Linux; I can do anything.
+
+Ohhh, I found picom.
+It's for motion and transparency.
+It's amazing.
+
