@@ -63,4 +63,17 @@ I'm watching this now:
 
 https://www.youtube.com/watch?v=S1jQfGcKjtA&t=456s
 
+---------------------
+12/07/2026
 
+y’all guys
+
+Now I forgot I don’t have a clipboard on Linux because I’m using Input Leap to share the mouse and keyboard with two screens. It’s incredibly amazing.
+
+sudo pacman -S xclip xsel
+sudo pacman -S copyq
+
+
+Also, I remember I need something to take screenshots.
+
+sudo pacman -S flameshot
